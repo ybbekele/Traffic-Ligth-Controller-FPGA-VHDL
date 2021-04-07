@@ -1,4 +1,4 @@
-# Traffic-Ligth-Controller-FPGA-VHDL
+# Traffic-Light-Controller-FPGA-VHDL
 Introduction
 Currently vehicles are one of the main enablers of movement from one place to another. These vehicles, if not properly managed, can cause serious damages on health, property as well as can lead to death. The main management mechanisms which are used to control vehicles’ movements and minimize accidents are traffic lights. Traffic lights are control signals which display messages via lights about what the driver and/or a pedestrian should do in order to avoid accidents and make movement from place to place easy. 
 
